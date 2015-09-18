@@ -1,3 +1,11 @@
-p {
-  color: red;
+ul {
+  background-color: pink;
+}
+
+.movies{
+  background-color: teal;
+}
+
+#achieve{
+  background-color: LightSkyBlue;
 }
